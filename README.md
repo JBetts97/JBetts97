@@ -1,5 +1,4 @@
-### Joseph Betts
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+### Joseph Betts ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 **Interests**<br>
 I’m currently learning front-end development for both web and mobile applications. I'm interested in frameworks like Flutter, React and Angular. 
