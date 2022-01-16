@@ -1,8 +1,9 @@
 ### Joseph Betts ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)
 
-**Interests**<br>
-I’m currently learning front-end development for both web and mobile applications.<br>
-I'm interested in frameworks like Flutter, React and Angular. 
+**Experience**
+- **Progress Openedge**: I have experience maintaining Progress OpenEdge databases and building Progress ABL applications that interact with them.
+- **NodeJS**: I have built and maintained NodeJS middleware applications that use APIs to get and post data between eCommerce and ERP systems.
+- **Flutter**: I have used flutter to build simple mobile application for collecting form data and posts to a firebase database.
 
-**Experience**<br>
-Ask me about Progress OpenEdge. I am experienced with developing OpenEdge applications for use in the manufacturing industry.
+**Interests**
+- **React/Angular**: I am interested in learning more about frameworks like React/Angular to build re-usable components that utilise TailwindCSS/Bootstrap.
